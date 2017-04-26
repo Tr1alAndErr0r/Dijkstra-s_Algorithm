@@ -1,0 +1,7 @@
+Forwarding Table: (source node 1)
+ Destination     |     Link
+  2      |( 1, 5)
+  3      |( 1, 3)
+  4      |( 1, 5)
+  5      |( 1, 5)
+ 
